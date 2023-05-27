@@ -1,5 +1,5 @@
 # 💫 About Me:
-Study at the Syrian Virtual University
+Study ITE at the Syrian Virtual University
 
 
 ## 🌐 Socials:
