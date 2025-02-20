@@ -36,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://brandfetch.com/cypress.io?view=library&library=default&collection=logos&asset=idySJxmg4h&utm_source=https%253A%252F%252Fbrandfetch.com%252Fcypress.io&utm_medium=copyAction&utm_campaign=brandPageReferral" height="40" alt="cypress logo"  />
 </div>
 
 ###
