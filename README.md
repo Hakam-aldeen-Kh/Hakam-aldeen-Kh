@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💼 I'm a Frontend Developer at Nipporia.<br>🌍  I'm based in Syria , Damascus.<br>✉️  You can contact me at hakamha8@gmail.com</p>
+<p align="left">💼 I'm a Frontend Developer at Nipporia.<br>🌍  I'm based in Syria , Damascus.<br>✉️  You can contact me at <a href="mailto:hakamha8@gmail.com">hakamha8@gmail.com</a></p>
 
 ###
 
