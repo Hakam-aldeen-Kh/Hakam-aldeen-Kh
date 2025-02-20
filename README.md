@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://docs.cypress.io/img/logo/cypress-logo-dark.svg" height="40" alt="cypress logo"  />
+  <img src="https://www.cypress.io/favicon.svg" height="40" alt="cypress logo"  />
 </div>
 
 ###
