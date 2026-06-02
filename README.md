@@ -24,7 +24,6 @@
 ## 🚀 Core Competencies
 
 - ⚡ **Web Architecture:** Crafting seamless user interfaces and robust applications using **React, Next.js, TypeScript**.
-- 🎨 **UI/UX Engineering:** Bridging design and code, including the development of custom **Figma plugins**.
 - ☁️ **Cloud & Containerization:** Deploying and managing scalable infrastructure using **Docker, Google Cloud Platform (GCP)**, and **Vercel**.
 - 🤖 **Automation & AI:** Building intelligent automation workflows with **n8n** and integrating Generative AI tools into modern applications.
 - ⚙️ **State & Data Management:** Expertise in modern data fetching and state management using **TanStack Query** and **Redux**.
