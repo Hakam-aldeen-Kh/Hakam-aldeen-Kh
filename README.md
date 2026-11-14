@@ -17,7 +17,7 @@
 - 🌐 **Explore my digital universe and latest insights at: [hakam-aldeen.com](https://www.hakam-aldeen.com)**
 - 🌍 Based in **Damascus, Syria**.
 - 🗣️ **Languages:** Native Arabic | English
-- 📩 Reach me directly at: **[hakamha8@gmail.com](mailto:hakamha8@gmail.com)**
+- 📩 Reach me directly at: **[hakamaldeen.alkhadraa@gmail.com](mailto:hakamaldeen.alkhadraa@gmail.com)**
 
 ---
 
